@@ -1,0 +1,57 @@
+total 16
+drwxrwxr-x  56 root         admin  1792 Nov 24 07:13 .
+drwxr-xr-x  20 root         wheel   640 Oct 17 23:30 ..
+-rw-r--r--@  1 jason.shive  admin  6148 Nov 15 10:59 .DS_Store
+-rw-r--r--   1 root         wheel     0 Oct 17 23:30 .localized
+drwxr-xr-x   3 jason.shive  staff    96 Nov  2 10:48 1Password 7.app
+drwxr-xr-x   3 jason.shive  staff    96 Oct 15 08:06 Alfred 4.app
+drwxr-xr-x@  3 jason.shive  admin    96 Apr 11  2020 ApacheDirectoryStudio.app
+drwxr-xr-x   5 root         wheel   160 Nov 19  2020 Cisco
+drwxrwxr-x   3 jason.shive  staff    96 Aug 31  2020 Cisco Webex Meetings.app
+drwxr-xr-x   3 root         wheel    96 Mar  4  2021 Citrix Workspace.app
+drwxr-xr-x@  5 root         wheel   160 Jun 29 09:41 Corsair
+drwxr-xr-x   3 jason.shive  staff    96 Sep 21 18:20 Discord.app
+drwxr-xr-x   3 jason.shive  staff    96 Oct 15 12:00 Docker.app
+drwxr-xr-x@  3 jason.shive  staff    96 Aug  9 09:05 FileZilla.app
+drwxr-xr-x@  3 jason.shive  admin    96 Dec  7  2019 Keka.app
+drwxr-xr-x@  3 root         wheel    96 Sep 29 08:45 Keynote.app
+drwxr-xr-x@  3 jason.shive  staff    96 Aug  5 11:33 Kindle.app
+drwxr-xr-x   3 12407        46688    96 Nov  3 10:38 MSP Anywhere Agent N-central.app
+drwxr-xr-x   3 root         wheel    96 Sep  2 09:10 Mac_Agent.app
+drwxr-xr-x   3 jason.shive  staff    96 Nov  9 17:17 Messenger.app
+drwxr-xr-x@  3 jason.shive  admin    96 Oct 19 21:10 Microsoft Azure Storage Explorer.app
+drwxr-xr-x   3 jason.shive  admin    96 Nov 15 09:59 Microsoft Edge.app
+drwxrwxr-x   3 root         wheel    96 Nov 16 13:19 Microsoft Excel.app
+drwxrwxr-x   3 root         wheel    96 Nov 16 13:24 Microsoft OneNote.app
+drwxrwxr-x   3 root         wheel    96 Nov 16 13:32 Microsoft Outlook.app
+drwxrwxr-x   3 root         wheel    96 Nov 16 13:37 Microsoft PowerPoint.app
+drwxr-xr-x@  3 root         wheel    96 Nov  8 17:07 Microsoft Remote Desktop.app
+drwxr-xr-x   3 root         wheel    96 Sep 29 12:06 Microsoft Teams.app
+drwxrwxr-x   3 root         wheel    96 Nov 16 13:44 Microsoft Word.app
+drwxr-xr-x@  3 jason.shive  staff    96 Nov 12 07:00 MongoDB Compass.app
+drwxr-xr-x@  3 root         wheel    96 Sep 29 08:50 Numbers.app
+drwxr-xr-x   3 root         wheel    96 Nov 16 06:01 OneDrive.app
+drwxr-xr-x@  3 root         wheel    96 Sep 29 08:43 Pages.app
+drwxr-xr-x@  3 root         wheel    96 Nov  8 17:07 Parallels Client.app
+drwxr-xr-x   3 root         wheel    96 Jul 15 10:49 Parallels Desktop.app
+drwxr-xr-x   3 jason.shive  staff    96 Jul 15 10:53 Parallels Toolbox.app
+drwxr-xr-x   3 jason.shive  staff    96 Nov 22 11:34 Postman.app
+drwxr-xr-x   3 root         wheel    96 Nov  8 17:16 PowerShell.app
+drwxr-xr-x@  3 jason.shive  admin    96 Sep 14 13:58 PyCharm CE.app
+drwxr-xr-x@  3 jason.shive  staff    96 Sep 16  2020 QXmlEdit.app
+drwxr-xr-x@  3 root         wheel    96 Oct 17 23:30 Safari.app
+drwxrwxr-x   3 root         admin    96 May  4  2021 SentinelOne
+drwxr-xr-x   3 jason.shive  staff    96 Nov  3 11:14 Slack.app
+drwxr-xr-x@  3 root         wheel    96 Nov 15 09:58 Spark.app
+drwxr-xr-x   3 jason.shive  staff    96 Nov 15 10:01 Spotify.app
+drwxr-xr-x   3 jason.shive  staff    96 Oct 26 13:12 Sublime Text.app
+drwxr-xr-x@  3 jason.shive  staff    96 Nov  9 22:53 TigerVNC Viewer 1.12.0.app
+drwxr-xr-x   4 root         wheel   128 Nov 10 10:11 Utilities
+drwxr-xr-x   3 jason.shive  staff    96 Sep 30 09:33 VLC.app
+drwxr-xr-x@  3 jason.shive  staff    96 Oct 14 09:45 VNC Viewer.app
+drwxr-xr-x   3 jason.shive  staff    96 Nov 15 11:43 Visual Studio Code.app
+drwxr-xr-x@  3 jason.shive  admin    96 Jul  2 08:11 balenaEtcher.app
+drwxr-xr-x@  3 jason.shive  staff    96 Nov 23 09:33 draw.io.app
+drwxr-xr-x@  3 root         wheel    96 Nov 19 12:21 iMovie.app
+drwxr-xr-x@  3 jason.shive  admin    96 Nov 22 12:15 iTerm.app
+drwxr-xr-x   3 jason.shive  wheel    96 Nov 19 16:51 zoom.us.app
